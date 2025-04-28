@@ -1,0 +1,20 @@
+Public microdata for the Labour Force Survey (LFS): disclaimer 
+
+Public microdata (also referred to as public use files, PUFs) for the European Union Labour Force Survey (EU-LFS) were created to enable interested parties to become familiar with microdata. At the same time the privacy of respondents had to be protected (Principle 5 of the European Statistics Code of Practice). The data structure of the public microdata is the same as in the microdata for research (Scientific Use Files). The public microdata provide researchers and trainers the opportunity to develop programs using identical formats and variable names to those that appear in the Scientific Use Files.
+
+The LFS public microdata are protected with traditional statistical disclosure control methods (global recoding, local suppression and post randomisation). There are both annual and quarterly files.
+
+The public microdata are tailored to the following purposes:
+ 1. To enable accredited researchers to develop and write a code that may eventually be applied to the scientific use files;
+ 2. To allow researchers to explore the content and complexity prior to requesting access to the confidential microdata;
+ 3. For statistical training at all levels.
+
+The data cannot be used for any statistical inference to a wider population. With these data it is not possible to make generalised statements about individual characteristics or relationships between different personal or household characteristics. These files have limited research value; only the scientific use files provide a basis for valid analysis. Any calculations based on the public microdata or the conclusions drawn from them are to be produced at the sole risk and responsibility of the user. Neither the National Statistical Institutes nor Eurostat can guarantee the accuracy or reliability of results. Furthermore, neither the National Statistical Institute nor Eurostat can be held responsible for any improper use of these data.
+
+The Public Use Files are developed in agreement with article 19 of Regulation 223/2009 on European statistics.
+
+The user guide for the Labour Force Survey https://ec.europa.eu/eurostat/documents/1978984/6037342/EULFS-Database-UserGuide.pdf gives an overview of the variables used in the survey. Further background information is available on the LFS dedicated pages on Statistics Explained.
+
+The data are in CSV-format (comma-separated values) and grouped by country and year.
+
+Downloaded from: https://ec.europa.eu/eurostat/web/microdata/public-microdata

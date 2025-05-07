@@ -28,6 +28,9 @@ uni-ml-project/
 │   └── processed/         # Cleaned datasets
 ├── notebooks/             # Jupyter notebooks
 ├── outputs/               # Model outputs
+│   ├── models/            # Model saves
+│   ├── plots/             # Plots for visualisation
+│   └── reports/           # Metrics
 ├── project_requirements   # Requirements handed by the professor.
 ├── requirements.txt       # All installed packages
 ├── README.md              # Project overview and instructions

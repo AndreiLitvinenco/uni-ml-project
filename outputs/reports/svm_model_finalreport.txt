@@ -1,0 +1,14 @@
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99    181501
+           1       0.66      0.19      0.30      5573
+
+    accuracy                           0.97    187074
+   macro avg       0.82      0.59      0.64    187074
+weighted avg       0.97      0.97      0.97    187074
+
+
+=== Confusion Matrix ===
+[[180937    564]
+ [  4502   1071]]
